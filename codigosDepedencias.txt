@@ -1,2 +1,3 @@
 pip install twilio
 pip show twilio
+pip --version
